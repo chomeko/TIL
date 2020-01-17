@@ -7,7 +7,9 @@
 
 ### 1ヶ月後に現在の仕事で使う計算機を開発する
 - [KobaApp](https://keisanki.herokuapp.com/)
-![Uploading スクリーンショット 2020-01-17 21.21.18.png…]()
+
+![KobaApp](https://user-images.githubusercontent.com/51746464/72613564-3b788d80-3973-11ea-8a11-d7a7f5038cae.png)
+
 >プラスチック成形で、予定の生産数が何時に作り終わるかを計算し、
 >終了時間に合わせて次の段取りの準備に取りかかれる。
 >普段は電卓を使って計算し、時計を見て終了時間を出していたため
