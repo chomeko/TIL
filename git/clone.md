@@ -9,7 +9,7 @@ cd hoge
 ```
 - vscodeを開きフォルダーをワークスペースへ
 ## Gitコマンド
-### clone
+### pull
 - git pull 最新のリポジトリをローカルへ反映
 ### ブランチの作成
 - git branch hoge ブランチの作成
