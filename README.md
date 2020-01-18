@@ -51,6 +51,8 @@
 ### 1月18日プログラミングコミュニティーでチーム開発を始める
 コミュニティーはこちら
 [にゅ〜ぶる会](https://newburukai.github.io/)
+![image](https://user-images.githubusercontent.com/51746464/72660773-a8dcfa80-3a15-11ea-8435-c46e40a3469a.png)
+
 - 今回はフロント側で参加
 随時更新していきます。
 
