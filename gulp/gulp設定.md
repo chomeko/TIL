@@ -1,3 +1,11 @@
+# 1月27日TypeError: imagemin.jpegtran is not a function」というエラー
+- 解決策
+gulpfile.js
+`imagemin.jpegtran()`
+を
+`imagemin.mozjpeg()`
+に変更して解決（アップデートによる変更？）
+
 # gulp導入
 - npm init -y
 - npm install -D gulp
