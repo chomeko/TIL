@@ -1,11 +1,16 @@
-# 1月27日TypeError: imagemin.jpegtran is not a function」というエラー
+# エラー集
+## 1月27日TypeError: imagemin.jpegtran is not a function」というエラー
 - 解決策
 gulpfile.js
 `imagemin.jpegtran()`
 を
 `imagemin.mozjpeg()`
 に変更して解決（アップデートによる変更？）
-
+## Error: Invalid built-in order 'alphabetically' provided. Available built-in orders are: alphabetical,concentric-css,smacss
+`.pipe( postcss([ cssdeclsort({ order: 'alphabetically' }) ]) )//プロパティをソートし直す(アルファベット順)`
+ここを
+`.pipe( postcss([ cssdeclsort({ order: 'alphabetical' }) ]) )//プロパティをソートし直す(アルファベット順)`
+に訂正
 # gulp導入
 - npm init -y
 - npm install -D gulp
