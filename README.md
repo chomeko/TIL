@@ -52,6 +52,8 @@
 1日３時間、コツコツやっていく
 - 2月8日デイトラ最終課題終了
 ### 祝　デイトラ終了です
+[最終課題github](https://github.com/chomeko/30day_lastday)
+
 <img width="1588" alt="スクリーンショット 2020-02-09 0 26 06" src="https://user-images.githubusercontent.com/51746464/74087940-34f1b780-4ad4-11ea-87bf-d4fffccef564.png">
 
 ### 1月18日プログラミングコミュニティーでチーム開発を始める
