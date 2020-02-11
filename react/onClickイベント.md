@@ -85,3 +85,32 @@ export default App;
 ```
 
 
+```js
+import React from 'react';
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {name: 'ちょめこ'};
+  }
+  
+  btnClick(name) {
+    this.setState(name: name)
+  }
+  
+  render() {
+    return (
+    	<div>
+    	  <h1>やあ、{this.state.name}様！</h1>
+    	  {/* onClickの処理に、stateを変更する処理 */}
+        <button onClick={() => {this.btnClick('ちょめめ'}>ちょめこ</button>
+        {/* onClickの処理に、stateを変更する処理 */}
+        <button onClick={() => {this.btnClick('ちょめこ'}>ちょめめ</button>
+      </div>
+    );
+  }
+}
+
+export default App;
+```
+
