@@ -33,6 +33,8 @@ this.setState({プロパティ名: 変更する値})
 >指定されたプロパティに対応するstateの値が変更される
 ## 注意点
 - stateの値に直接代入することで値を変更してはいけない
+- 値を変更したい場合は、setStateを使い
+
 ダメな例
 ```js
 this.state = {name: 'ちょめめ'};
@@ -40,3 +42,4 @@ this.state = {name: 'ちょめめ'};
 いい例
 ```js
 this.setState({name: 'ちょめめ})；
+
