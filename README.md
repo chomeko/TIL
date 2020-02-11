@@ -62,7 +62,9 @@
 ![image](https://user-images.githubusercontent.com/51746464/72660773-a8dcfa80-3a15-11ea-8435-c46e40a3469a.png)
 
 - 今回はフロント側で参加
+- 2月９日ワイヤーフレーム作成
+- 2月10日デザインをしてみるも挫折
 随時更新していきます。
 
 ## react.jsに興味を持ちデイトラ終了後Reactを本格的に勉強する予定です。
-
+- 2月11日progateでreact勉強開始
