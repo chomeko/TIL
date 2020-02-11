@@ -39,7 +39,49 @@ this.setState({プロパティ名: 変更する値})
 ```js
 this.state = {name: 'ちょめめ'};
 ```
+
 いい例
 ```js
 this.setState({name: 'ちょめめ})；
+```
+
+```js
+import React from 'react';
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {name: 'ちょめこ'};
+  }
+  
+  render() {
+    return (
+    	<div>
+    	  <h1>やあ、{this.state.name}様！</h1>
+    	  {/* onClickの処理に、stateを変更する処理 */}
+        <button onClick={() => {this.setState({name: 'ちょめめ'})}}>ちょめこ</button>
+        {/* onClickの処理に、stateを変更する処理 */}
+        <button onClick={() => {this.setState({name: 'ちょめこ'})}}>ちょめめ</button>
+      </div>
+    );
+  }
+}
+
+export default App;
+```
+
+## メソッド化
+- メソッドに引数を渡す
+```js
+メソッド名(name) {
+ this.setState({name: name})
+  }
+```
+
+## onClickイベントでメソッドを呼び出す
+
+```js
+<button onClick={() => {this.メソッド名('ちょめめ')}}ちょめこ</button>
+```
+
 
