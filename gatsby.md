@@ -31,6 +31,7 @@ gatsby new gatsby-test https://github.com/gatsbyjs/gatsby-starter-hello-world
 - インストール完了
 - ファイル構成
 
+<img width="170" alt="スクリーンショット 2020-02-13 21 27 32" src="https://user-images.githubusercontent.com/51746464/74527939-5a664180-4f6a-11ea-9b89-612f3437d0b4.png">
 
 
 - ターミナルでnpm run develop
