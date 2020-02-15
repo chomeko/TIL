@@ -72,3 +72,6 @@
 - 2月15日reactチュートリアル２週終了
 
 [チュートリアル終了後のgithub](https://github.com/chomeko/react-tutorial)
+
+## react hooksの勉強開始
+- 2月16日react公式のhooksを勉強開始
