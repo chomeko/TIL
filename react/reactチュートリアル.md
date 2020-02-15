@@ -56,4 +56,5 @@ import React from 'react';
 export default Square;
 
 ```
-
+チュートリアル終了後のgithub
+https://github.com/chomeko/react-tutorial
