@@ -68,3 +68,5 @@
 
 ## react.jsに興味を持ちReactを本格的に勉強始める
 - 2月11日progateでreact勉強開始
+- 2月14日reactチュートリアル開始
+- 2月15日reactチュートリアル２週終了
