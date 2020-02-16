@@ -75,3 +75,5 @@
 
 ## react hooksの勉強開始
 - 2月16日react公式のhooksを勉強開始
+- react hooks 挫折
+- reactのネットに落ちてるサンプルをひたすらアウトプットに切り替えていく
