@@ -77,4 +77,7 @@
 - 2月16日react公式のhooksを勉強開始
 - react hooks 挫折
 - reactのネットに落ちてるサンプルをひたすらアウトプットに切り替えていく
-- 2月18日書籍で勉強開始(2月18日書籍で勉強開始 React.js&Next.js超入門 )
+- 2月18日書籍で勉強開始(React.js&Next.js超入門 )
+>githubにはprivateで記録をpushしています。
+
+[TILのreactを随時更新中](https://github.com/chomeko/TIL/tree/master/react)
