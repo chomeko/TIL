@@ -85,3 +85,5 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+- Store.js作成
+
