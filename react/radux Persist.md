@@ -31,3 +31,4 @@
 >ストレージ
 - import {PersistGate} from 'redux-persist/integration/react'
 >パーシストゲート
+
