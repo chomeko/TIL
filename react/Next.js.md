@@ -42,5 +42,28 @@ module.exports = {
   }
 }
 ```
+## page移動
+```js
+<Link href="/hoge">
+  <a>ページに行く</a>
+</Link>
+```
 
+## 外部スタイルシートを利用
+- staticフォルダ作成してStyle.jsファイルを作成
+```js
+export default <style>{`
+ h1 {
+  font-size:60px;
+`}</style>;
+```
+- 適用したいファイルにimport
+`import style from '../static/Style';`
+
+```js
+export default () => <div>
+  {style}
+  <h1>Next.js</h1>
+<div>
+```
 
