@@ -26,3 +26,19 @@ package.jsonファイル作成
 ## インストール
 `npm install --save next react react-dom`
 
+## 起動
+`npm run dev`
+
+## HTMLファイルとして保存
+next.config.jsファイル作成
+```js
+module.exports = {
+  exportPathMap: function () {
+    return {
+      '/': {page: '/' }
+    }
+  }
+}
+```
+
+
