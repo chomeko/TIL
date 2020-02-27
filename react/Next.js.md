@@ -26,8 +26,10 @@ package.jsonファイル作成
 ## インストール
 `npm install --save next react react-dom`
 
-## 起動
+## コマンド
 `npm run dev`
+`npm run build`
+`npm run export`
 
 ## HTMLファイルとして保存
 next.config.jsファイル作成
