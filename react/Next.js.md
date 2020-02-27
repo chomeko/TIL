@@ -66,4 +66,24 @@ export default () => <div>
   <h1>Next.js</h1>
 <div>
 ```
+## コンポーネント
+- componentsフォルダ作成その中に作る
+
+## Layoutコンポーネント
+- components/Layout.js
+>header　footer　styleをimportして使う
+
+
+```js
+import React, { Component } from 'react';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
+import style from '../static/Style';
+```
+
+- {this.props.children}
+>コンポーネントの開始タグと終了タグの間に書かれたコンテンツはchidrenプロパティとして取り出せる
+>Layoutの開始タグ　と　Layoutの終了タグの間のコンテンツの事
+
+
 
