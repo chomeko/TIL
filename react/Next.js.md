@@ -96,3 +96,26 @@ import style from '../static/Style';
     content='initial-scale=1.0,width=device-width' />
 </Head>
 ```
+## Imageコンポーネント
+- staticフォルダに画像保存する
+- static/Image.js作成
+constructor(props){〜〜で
+```js
+this.fname = "./static/" + props.fname;
+this.size = props.size + "px";
+```
+これを
+
+```js
+render() {
+  return (
+    <img width={this.size}
+      border="1"
+      src={this.fname} />
+  );
+}
+```
+こうして表示させたい場所に
+
+```<Image fname="hoge.jpg" size="250"/>```
+
