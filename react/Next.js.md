@@ -119,3 +119,16 @@ render() {
 
 ```<Image fname="hoge.jpg" size="250"/>```
 
+## reduxを使う
+
+- インストール
+`npm install --save redux`
+
+`npm install --save react-redux`
+
+`npm install --save redux-thunk`
+
+- lib/redux-store.js作成
+
+
+
