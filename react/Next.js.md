@@ -85,5 +85,14 @@ import style from '../static/Style';
 >コンポーネントの開始タグと終了タグの間に書かれたコンテンツはchidrenプロパティとして取り出せる
 >Layoutの開始タグ　と　Layoutの終了タグの間のコンテンツの事
 
+## <Head>タグ
+`import Head from 'next/head';`
 
-
+```js
+<Head>
+  <title>{this.props.title}</title>
+  <meta charSet='utf-8' />
+  <meta name='viewport'
+    content='initial-scale=1.0,width=device-width' />
+</Head>
+```
