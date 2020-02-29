@@ -129,6 +129,13 @@ render() {
 `npm install --save redux-thunk`
 
 - lib/redux-store.js作成
+AppWithReduxコンポーネントの作成をする
+
+- _app.jsの作成
+これら２つのスクリプトを用意する事
+
+- ストアの用意
+
 
 
 
