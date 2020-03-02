@@ -27,7 +27,7 @@ import "firebase/storage"
 ```
 詳細はここで確認
 
-
+https://github.com/chomeko/react-firebase-test/blob/4e02552d2d3fbd0eb12b64e35016762940cb0a92/src/fire/Sampledata.js
  
 
 ## 並べ替えメソッド
