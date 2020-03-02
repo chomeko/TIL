@@ -13,6 +13,21 @@ npx create-react-app my-app
 - プロジェクトにAPIをインストール
 ` npm install --save firebase`
 
+## Firebaseの初期化とimport
+- import
+`import firebase from "firebase";`
+- firebaseのconfigをコピー
+- App.jsで初期化
+`firebase.initializeApp(config);`
+
+## データ表示のコンポーネント作成
+```js
+import firebase from "firebase";
+import "firebase/storage"
+```
+詳細はここで確認
+
+
  
 
 ## 並べ替えメソッド
