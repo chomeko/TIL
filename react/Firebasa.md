@@ -13,3 +13,24 @@ npx create-react-app my-app
 - プロジェクトにAPIをインストール
 ` npm install --save firebase`
 
+ 
+
+## 並べ替えメソッド
+- orderByKey
+>キーによって並べ替える
+- orderByValue
+>値によって並べ替える
+- orderByChild
+>引数に指定したノードの順によって並べ替える
+
+## フィルターメソッド
+- equalTo
+>引数の値と等しいものを取り出す
+- limitToFirst
+>最初から引数で指定した数だけ取り出す
+- limitToLast
+>最後から引数で指定した数だけ取り出す
+- startAt
+>引数で指定した値のデータを取り出す
+- endAt
+>引数で指定した値のデータまでを取り出す
