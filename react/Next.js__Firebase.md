@@ -21,6 +21,7 @@ https://github.com/chomeko/next_app/blob/master/components/Sampledata.js
 
 ## 特定のデータの取り出し方
 - 1つ目
+
 `let ref = db.ref('hoge/1/');`
 
 - 2つ目
@@ -34,7 +35,7 @@ ref.orderByKey()
 詳細https://github.com/chomeko/next_app/blob/803ce25714eba1e3b38032d95ae1d6e86c0b51b9/components/Firefind.js
 
 
-##　データの追加
+## データの追加
 - 参照を取り出す
 変数　= database.ref(設定する項目のパス);
 - 値を設定する
