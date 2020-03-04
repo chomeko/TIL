@@ -42,3 +42,11 @@ ref.orderByKey()
 参照.set({項目:値,　項目:値,.....})
 
 詳細https://github.com/chomeko/next_app/blob/777225bc7f9b20cf249b5cb4c1550bbc0c04855b/components/Fireadd.js
+
+## データの削除
+```
+変数　= db.ref(項目のパス);
+参照.remove();
+```
+詳細　https://github.com/chomeko/next_app/blob/master/components/Firedelete.js
+
