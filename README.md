@@ -90,5 +90,12 @@
 
 [github](https://github.com/chomeko/Bell)
 
+
+## 勉強プラン変更
+- 3月21日現職の突然の部署移動で急遽勉強方針の変更をする
+>Reactを覚える予定だったが、現職（製造業）突然の部署移動になってしまい転職を決意し、
+>一旦Reactは保留を決意。コーディング力を今より伸ばす方向に勉強方法を変更する。
+>目標は5月の部署移動が始まる前に転職活動をし、転職を目指す。
+
 ## TIL勉強記録
 [TILのreactを随時更新中](https://github.com/chomeko/TIL/blob/master/react/%E9%96%A2%E6%95%B0%E9%9B%86.md)
