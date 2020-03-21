@@ -81,8 +81,13 @@
 >githubにはprivateで記録をpushしています。
 - 3月１０日〜3月15日完成１週間チャレンジにてReactでいいねボタンを作成
 ### Bell
+
+<img width="1440" alt="スクリーンショット 2020-03-15 22 19 43" src="https://user-images.githubusercontent.com/51746464/77224427-e2aeb680-6ba8-11ea-900d-382e09c5079b.png">
+
 [１週間チャレンジ投稿ページ](https://crieit.net/boards/web1week-202003/Home-Bell)
+
 [Bell](https://chomeko-test-app.firebaseapp.com/)
+
 [github](https://github.com/chomeko/Bell)
 
 
