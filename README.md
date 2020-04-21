@@ -104,6 +104,7 @@
 - ワイヤーフレームをXDで作成開始
 ### 4月21日ポートフォリオ完成
 - [chomeko's portfolio](https://chomeko-portfolio.netlify.app/)
+- [Github](https://github.com/chomeko/portfolio)
 ![portfoliotop](https://user-images.githubusercontent.com/51746464/79854396-5809e300-8404-11ea-9fa4-e0dc6070ffae.png)
 
 
