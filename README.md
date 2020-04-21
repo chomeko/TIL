@@ -102,6 +102,8 @@
 - 3月29日模写完成
 ### 3月29日ポートフォリオの製作開始
 - ワイヤーフレームをXDで作成開始
+### 4月21日ポートフォリオ完成
+- [chomeko's portfolio](https://chomeko-portfolio.netlify.app/)
 
 
 課題毎日１０分
