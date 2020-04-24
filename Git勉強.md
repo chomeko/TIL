@@ -40,3 +40,14 @@ touch README.md でファイル作成する
 code README.mdで
 touch README.md でファイル開ける
 一旦保存する
+git status　履歴を見る
+git add .
+git status 履歴を見る
+git commit -m "最初のコミット"
+（コミット成功しました）
+リポジトリをgit hubで作る
+git remote add origin git@github.com:newburukai/test_chomeko.git
+git remote -v 確認する
+git push -u origin master　これでpushできる
+ 
+ 
