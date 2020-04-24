@@ -1,27 +1,19 @@
 # もくもく会で勉強したgit
 
-バージョン管理　git
+- バージョン管理　git
 
-.git
+- .git
 
-ローカル/リモート　リポジトリ
-
-ローカル=pc
-
-リモート=github
-
-git initをすると今いるフォルダにgitのリポジトリを作る
-
-git add ステージングする
-
-git commit コミットする（gitに保存する）
-
-git push (ローカルからリモートに送る)
-
+- ローカル/リモート　リポジトリ
+- ローカル=pc
+- リモート=github
+- git initをすると今いるフォルダにgitのリポジトリを作る
+- git add ステージングする
+- git commit コミットする（gitに保存する）
+- git push (ローカルからリモートに送る)
 git add .　(全てのファイル)
 git add index.htmlでステージングを指定できる
 git commit -m "コメントをつけてステージングをコミットをする"
-
 ローカルからリモートに同期する
 git push origin master　省略可　git push
 
