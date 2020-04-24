@@ -29,3 +29,14 @@ git checkout -b "dev/login"
 マージする
 git checkout masterに戻る
 git marge dev/login
+
+
+
+## フォルダ作成
+mkdir mokumoku
+cd mokumoku
+git initでgitを使えるようになる
+touch README.md でファイル作成する
+code README.mdで
+touch README.md でファイル開ける
+一旦保存する
