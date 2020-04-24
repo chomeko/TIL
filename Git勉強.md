@@ -17,49 +17,50 @@
 ローカルからリモートに同期する
 - git push origin master　省略可　git push
 
- > 各コミットに戻ることもできる
-最初のコミット　4/23 10:00
-コメントをつけてステージングをコミットをする 4/24 11:00
+> 各コミットに戻ることもできる
+> 最初のコミット　4/23 10:00
+> コメントをつけてステージングをコミットをする 4/24 11:00
 
-bransh　（枝）
+- bransh　（枝）
 ブランチを新しく作る時
-git checkout -b "dev/login"
+- git checkout -b "dev/login"
 マージする
-git checkout masterに戻る
-git marge dev/login
+- git checkout masterに戻る
+- git marge dev/login
 
 
 
 ## フォルダ作成
-mkdir mokumoku
-cd mokumoku
-git initでgitを使えるようになる
-touch README.md でファイル作成する
-code README.mdで
-touch README.md でファイル開ける
+- mkdir mokumoku
+- cd mokumoku
+- git initでgitを使えるようになる
+- touch README.md でファイル作成する
+- code README.mdで
+- touch README.md でファイル開ける
 一旦保存する
-git status　履歴を見る
-git add .
-git status 履歴を見る
-git commit -m "最初のコミット"
+- git status　履歴を見る
+- git add .
+- git status 履歴を見る
+- git commit -m "最初のコミット"
 （コミット成功しました）
+
 リポジトリをgit hubで作る
-git remote add origin git@github.com:newburukai/test_chomeko.git
-git remote -v 確認する
-git push -u origin master　これでpushできる
+- git remote add origin git@github.com:newburukai/test_chomeko.git
+- git remote -v 確認する
+- git push -u origin master　これでpushできる
  
 ## コミットの確認
-git log --oneline
+- git log --oneline
 
 ## 直前のコミットメッセージを修正する
-git commit --amend -m ":art:コミットのメッセージを修正するよ"
-git log --oneline で確認
-git push　します
+- git commit --amend -m ":art:コミットのメッセージを修正するよ"
+- git log --oneline で確認
+- git push　します
 
 ## vimの使い方
-vi READE.mdで開く
-i でインサートモード
-編集
-esc エスケープ
-:w保存　:q　終了　:q!保存せずに終了　:wq!保存して終了
+- vi READE.mdで開く
+- i でインサートモード
+- 編集
+- esc エスケープ
+- :w保存　:q　終了　:q!保存せずに終了　:wq!保存して終了
 
