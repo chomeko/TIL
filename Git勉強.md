@@ -3,13 +3,19 @@
 バージョン管理　git
 
 .git
+
 ローカル/リモート　リポジトリ
+
 ローカル=pc
+
 リモート=github
 
 git initをすると今いるフォルダにgitのリポジトリを作る
+
 git add ステージングする
+
 git commit コミットする（gitに保存する）
+
 git push (ローカルからリモートに送る)
 
 git add .　(全てのファイル)
