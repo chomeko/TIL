@@ -50,4 +50,18 @@ git remote add origin git@github.com:newburukai/test_chomeko.git
 git remote -v 確認する
 git push -u origin master　これでpushできる
  
- 
+## コミットの確認
+git log --oneline
+
+## 直前のコミットメッセージを修正する
+git commit --amend -m ":art:コミットのメッセージを修正するよ"
+git log --oneline で確認
+git push　します
+
+## vimの使い方
+vi READE.mdで開く
+i でインサートモード
+編集
+esc エスケープ
+:w保存　:q　終了　:q!保存せずに終了　:wq!保存して終了
+
