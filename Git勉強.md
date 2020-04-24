@@ -65,3 +65,14 @@
 - esc エスケープ
 - :w保存　:q　終了　:q!保存せずに終了　:wq!保存して終了
 
+## pull
+- git pull
+>リモートが先に行ってる時にする
+
+- git fetch　変更があるかないかを確認　大事
+- git marge origin/master　同期
+
+git stash save
+一時退避　保存
+
+.gitignore
