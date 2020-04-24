@@ -18,7 +18,9 @@
 - git push origin master　省略可　git push
 
 > 各コミットに戻ることもできる
+
 > 最初のコミット　4/23 10:00
+
 > コメントをつけてステージングをコミットをする 4/24 11:00
 
 - bransh　（枝）
@@ -34,9 +36,8 @@
 - mkdir mokumoku
 - cd mokumoku
 - git initでgitを使えるようになる
-- touch README.md でファイル作成する
-- code README.mdで
-- touch README.md でファイル開ける
+- touch README.mdでファイル作成する
+- code README.mdでファイル開ける
 一旦保存する
 - git status　履歴を見る
 - git add .
