@@ -50,3 +50,54 @@ methods: {
     }
   </style>
 ```
+
+# アラートコンポーネント
+```
+<div id="app">
+  <alert-box>〇〇が入力されていません</alert-box>
+</div>
+```
+## テンプレートを作る
+- Vue.component('alert-box',{
+>コンポーネント名
+- template: ` ~~~~ `
+>テンプレート
+- <div class="alert" v-on:click="caution">
+>alertクラスにクリックイベント
+- <strong>Error!</strong>
+>エラー表示
+- <slot></slot>
+>テキスト表示部分
+- 以下　全文
+```
+<script>
+  Vue.component('alert-box',{
+    template: `
+    <div class="alert" v-on:click="caution">
+      <strong>Error!</strong>
+      <slot></slot>
+    </div>
+    `,
+    methods: {
+      caution: function(){
+        alert('クリックされました');
+      }
+    }
+  });
+
+  var app = new Vue({
+    el: '#app'
+  })
+</script>
+
+## アラートにスタイルをつける
+```
+<style>
+  .alert {
+    background: #ffcccc;
+    padding: 10px;
+    border: 1px solid #f33;
+    cursor: pointer;
+  }
+</style>
+```
