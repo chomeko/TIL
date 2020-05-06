@@ -89,8 +89,10 @@ methods: {
     el: '#app'
   })
 </script>
+```
 
 ## アラートにスタイルをつける
+
 ```
 <style>
   .alert {
