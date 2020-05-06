@@ -8,6 +8,8 @@
 - jsイベント
 ## v-for="変数名　in 配列名"
 - 配列繰り返し
+## input v-model="message"
+- インプットの中と連携的なやつ
 
 # アニメーション
 ## button v-on:click="メソッド名"
