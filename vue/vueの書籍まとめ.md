@@ -1,1 +1,1 @@
-![書籍のまとめ](https://github.com/chomeko/vue-matome)
+[書籍のまとめ](https://github.com/chomeko/vue-matome)
