@@ -121,6 +121,10 @@
 ![スクリーンショット 2020-05-31 21 41 17](https://user-images.githubusercontent.com/51746464/83516412-f617bf80-a511-11ea-9f56-554d0afab1e2.png)
 
 
-
+### メンター課題
 課題毎日１０分
 - [寿司打](http://typingx0.net/sushida/play.html)
+- 終了
+- vueのTODOを作ってポートフォリオに載せる
+- 終了
+- 面接練習をする
