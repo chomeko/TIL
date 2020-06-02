@@ -106,7 +106,18 @@
 - [chomeko's portfolio](https://chomeko-portfolio.netlify.app/)
 - [Github](https://github.com/chomeko/portfolio)
 ![portfoliotop](https://user-images.githubusercontent.com/51746464/79854396-5809e300-8404-11ea-9fa4-e0dc6070ffae.png)
+### 5月9日Vueの書籍を購入し勉強開始
+- 基礎から学ぶVue.js
+### 5月19日Vueの書籍終了
+### 5月20日TODOリスト作成開始
+- Vuexで作成する
+### 5月31日TODOリスト完成
+- デザインはレトロカラーにして、線を強調するようなイメージにしてみました
+### 6月1日TODOアプリのブラッシュアップ開始
+- FBをもらい修正していく
 
+- [My todo](https://chomeko-todo.netlify.app/my-todo/)
+- [Github]()
 
 
 課題毎日１０分
