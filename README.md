@@ -117,7 +117,7 @@
 - FBをもらい修正していく
 
 - [My todo](https://chomeko-todo.netlify.app/my-todo/)
-- [Github]()
+- [Github](https://github.com/chomeko/my-todo)
 ![スクリーンショット 2020-05-31 21 41 17](https://user-images.githubusercontent.com/51746464/83516412-f617bf80-a511-11ea-9f56-554d0afab1e2.png)
 
 
